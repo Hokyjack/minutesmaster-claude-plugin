@@ -1,0 +1,26 @@
+{
+  "name": "minutesmaster",
+  "displayName": "MinutesMaster",
+  "version": "1.0.1",
+  "description": "Work with your MinutesMaster meetings in Claude: search and read transcripts, minutes, decisions and action items, cite the exact moment, draft follow-ups and digests, and record or import meetings with your permission.",
+  "author": {
+    "name": "MinutesMaster",
+    "email": "info@minutesmaster.ai",
+    "url": "https://www.minutesmaster.ai"
+  },
+  "homepage": "https://www.minutesmaster.ai/ai-agents",
+  "license": "MIT",
+  "keywords": [
+    "meetings",
+    "transcripts",
+    "meeting minutes",
+    "action items",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.minutesmaster.ai/ai-agents",
+  "supportUrl": "https://www.minutesmaster.ai/support",
+  "privacyPolicyUrl": "https://www.minutesmaster.ai/privacy",
+  "termsOfServiceUrl": "https://www.minutesmaster.ai/terms",
+  "repository": "https://github.com/Hokyjack/minutesmaster-claude-plugin"
+}
